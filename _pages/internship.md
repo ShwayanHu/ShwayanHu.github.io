@@ -13,7 +13,7 @@ Position: Quantitative Researcher
 
 Date: 2023-06 ~ 2023-09
 
-Glance of Duty:
+Glance of duty:
 - Developed a report-driven stock-selection strategy based on research of financial analysts on the Chinese stock market; reduced the turnover ratio from 18.46 to 12.84 by adding a component adjustment mechanism of market indexes; achieved an excess return of 38.32% and an Information Ratio (IR) of 4.00; implemented with Python
 - Constructed a factor based on the jump in price with an IC (Barra Neutralized) of 2.40%; filtered stock pool based on Syntax Analysis of industry research reports; the strategy achieved an excess return of 32.37% and IR of 3.01; implemented with Jieba and Gensim
 - Reproduced market indexes, including CSI932000, based on compilation requirements of index companies with 100% accuracy; tracked market index performance and conducted corresponding statistical work
@@ -26,7 +26,7 @@ Position: Quantitative Researcher
 
 Date: 2023-01 ~ 2023-05
 
-Glance of Duty:
+Glance of duty:
 - Designed and developed a backtesting framework for time-series strategies in the Chinese Future market with Python and MySQL
 - Optimized PnL decomposition models from Brinson and Barra with accuracy for each investment process, including selection and combination of factors
 - Established cross-sectional selection model of Future market with Arrow-Debrew two-phase market model; achieved a Rank-Information Coefficient (Rank IC) of 0.013 and a winning rate of 52.43%
