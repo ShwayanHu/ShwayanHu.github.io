@@ -1,13 +1,12 @@
 ---
-title: "Tutorial 1 on Relevant Topic in Your Field"
+title: "2023 China Fintech Research Conference"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Talk"
+venue: "Guangdong University of Finance and Economics, School of Finance"
+date: 2023-10-14
+location: "Guangdong, China"
 ---
 
-[More information here](http://exampleurl.com)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+
+Frontiers in areas of investor sentiment index construction is discussed, along with introduction to research paper "Investor Sentiment Index Based on Prospect Theory: Evidence from China".

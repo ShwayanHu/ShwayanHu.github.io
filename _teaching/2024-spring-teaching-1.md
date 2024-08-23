@@ -7,6 +7,10 @@ date: 2024-04-1
 location: "Beijing, China"
 ---
 
+
+
+Common problem solving techniques are introduced, representative questions are explained.
+
 Main content: 
 
 -   Algebraic Geometry
@@ -14,4 +18,3 @@ Main content:
 -   Multi-variable Calculus
 -   Series
 
-Common problem solving techniques are introduced, representative questions are explained.
