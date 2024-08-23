@@ -12,9 +12,9 @@ title                    : "Shwayan Hu / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Shwayan Hu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shwayanhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shwayanhu/shwayanhu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "ShwayanHu.png"
   name             : "Shwayan Hu"
-  pronouns         : # example: "she/her"  
-  bio              : "Master Student in Statistical Science"
+  pronouns         : "he/his/him" # example: "she/her"  
+  bio              : "Master Student in Statistical Science, Duke University"
   location         : "Durham, North Carolina, United States"
   employer         : "Duke University"
   uri              : # URL
