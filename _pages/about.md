@@ -14,7 +14,7 @@ Shwayan Hu is a Master student in Statistical Science at Duke University, Trinit
 # Education 
 
 -   Bachlor of Science in Financial Technology, Central University of Finance and Economics, China (2020.9 ~ 2024.7)
-    -   GPA 95.01 or 4.00/4.00 (rank 1/252) 
+    -   GPA 95.01/100 or 4.00/4.00 (rank 1/252) 
     -   Relevant Coursework
         -   Maths: Advanced Algebra, Advanced Mathematics, Mathematical Analysis, Probability and Statistics, Discrete Mathematics, Analysis of Financial Time Series, Statistics, Ordinary Differential Equations, Stochastic Process
         -   Computer: C++ for Programming, Data Structure and Algorithms, Big Data and Finance, Principles and Applications of Artificial Intelligence, Deep Learning and Natural Language Processing, Cloud Computing and Big Data Technology 
