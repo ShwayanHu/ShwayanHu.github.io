@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shwayan Hu / Personal Webpage"
+title                    : "Shwayan Hu / Home"
 title_separator          : "-"
 name                     : &name "Shwayan Hu"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Shwayan Hu"
   pronouns         : "he/his/him" # example: "she/her"  
   bio              : "Master Student in Statistical Science, Duke University"
-  location         : "Durham, North Carolina, United States"
+  location         : "Durham, NC 27705, U.S."
   employer         : "Duke University"
   uri              : # URL
   email            : "xueyanhu1231@gmail.com" 
