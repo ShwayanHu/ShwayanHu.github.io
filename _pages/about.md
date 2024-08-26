@@ -6,9 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify; text-justify: inter-word;">
-   # Overview
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
 
+# Overview
 Shwayan Hu is a Master student in Statistical Science at Duke University, Trinity College of Arts and Sciences, expected to graduate in May, 2026. Before, he received comprehensive education as a finance practitioner and scored top 1 in undergraduate years. However, he gradually discovered his keen interest to quantitative methods instead of finance, and decided to dive into the world of statistics. He is interested in all topics in statistics, especially statistical inference and Bayesian statistics. Methodological originality and practical application are highly desired. he hopes to change how people understand world with innovative perspectives.
 
 # Education 
@@ -45,5 +48,3 @@ Shwayan Hu is a Master student in Statistical Science at Duke University, Trinit
 - Interests: 
     - Marathon: Beijing Three Peaks Mountain Marathon, 21km (2020); Beijing Three Peaks Mountain Marathon, 21km (2021); Beijing Three Peaks Mountain Marathon, 21km (2024); Jingxi Ancient Road Mountain Marathon, 10km (2024)
     - Clarinet: L8 in Central Conservatory of Music Clarinet Grading Test
-</div>
-
