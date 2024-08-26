@@ -15,9 +15,9 @@ redirect_from:
 -   <div style="text-align: justify; text-justify: inter-word;">Bachlor of Science in Financial Technology, Central University of Finance and Economics, China (2020.9 ~ 2024.7)</div>
     -   <div style="text-align: justify; text-justify: inter-word;">GPA 95.01/100 or 4.00/4.00 (rank 1/252) </div>
     -   <div style="text-align: justify; text-justify: inter-word;">Relevant Coursework</div>
-        -   <div style="text-align: justify; text-justify: inter-word;">Maths: Advanced Algebra, Advanced Mathematics, Mathematical Analysis, Probability and Statistics, Discrete Mathematics, Analysis of Financial Time Series, Statistics, Ordinary Differential Equations, Stochastic Process</div>
+        -   <div style="text-align: justify; text-justify: inter-word;">Maths: Advanced Algebra, Advanced Mathematics, Mathematical Analysis, Real Analysis, Functional Analysis, Probability and Statistics, Discrete Mathematics, Analysis of Financial Time Series, Statistics, Ordinary Differential Equations, Stochastic Process</div>
         -   <div style="text-align: justify; text-justify: inter-word;">Computer: C++ for Programming, Data Structure and Algorithms, Big Data and Finance, Principles and Applications of Artificial Intelligence, Deep Learning and Natural Language Processing, Cloud Computing and Big Data Technology</div>
-        -   <div style="text-align: justify; text-justify: inter-word;">Finance: Accounting Microeconomics, Macroeconomics Finance, Econometrics, Corporate Finance, Financial Econometrics, Behavioral Finance, Security Investment ,Financial Risk Management</div> 
+        -   <div style="text-align: justify; text-justify: inter-word;">Finance: Accounting, Microeconomics, Macroeconomics, Finance, Econometrics, Corporate Finance, Financial Econometrics, Behavioral Finance, Security Investment, Financial Risk Management</div> 
 
 # Scholarships & awards
 
