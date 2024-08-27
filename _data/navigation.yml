@@ -10,13 +10,13 @@ main:
     url: /teaching/    
     
   - title: "Internship"
-    url: /internship/
+    url: /teaching/
         
   - title: "Projects"
     url: /year-archive/
 
   - title: "Paper Notes"
-  - url: /internship/
+  - url: /papernotes/
 
 #  - title: "CV"
 #    url: /cv/
