@@ -1,8 +1,11 @@
 ---
-title: "Notes: Addressing Multiple Detection Limits with Semiparametric Cumulative Probability Models"
-date: 2024-08-27
-collection: portfolio
+layout: archive
+title: "Notes"
+permalink: /notes/
+author_profile: true
 ---
+
+{% include base_path %}
 
 >    Source paper citation: Tian, Y., Li, C., Tu, S., James, N. T., Harrell, FrankE., & Shepherd, BryanE. (2024). Addressing Multiple Detection Limits with Semiparametric Cumulative Probability Models. *Journal of the American Statistical Association*, *119*(546), 864–874. https://doi.org/10.1080/01621459.2024.2315667
 
