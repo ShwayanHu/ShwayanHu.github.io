@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 # Overview
-<div style="text-align: justify; text-justify: inter-word;">Shwayan Hu is a Master student in Statistical Science at Duke University, Trinity College of Arts and Sciences, expected to graduate in May, 2026. Before, he received comprehensive education as a finance practitioner and scored top 1 in undergraduate years. However, he gradually discovered his keen interest to quantitative methods instead of finance, and decided to dive into the world of statistics. He is interested in all topics in statistics, especially statistical inference and Bayesian statistics. Methodological originality and practical application are highly desired. he hopes to change how people understand world with innovative perspectives.</div>
+<div style="text-align: justify; text-justify: inter-word;">Shwayan Hu is a Master student in Statistical Science at Trinity College of Arts and Sciences, Duke University, expected to graduate in May, 2026. Before, he received comprehensive education as a finance practitioner and scored top 1 in undergraduate years. However, he gradually discovered his keen interest to quantitative methods instead of finance, and decided to dive into the world of statistics. He is interested in all topics in statistics, especially statistical inference and Bayesian statistics. Methodological originality and practical application are highly desired. He hopes to change how people understand world with innovative perspectives.</div>
 
 # Education 
 -   <div style="text-align: justify; text-justify: inter-word;">Master of Statistical Science, Duke University, U.S. (2024.8 ~ 2026.5, expected)</div>
