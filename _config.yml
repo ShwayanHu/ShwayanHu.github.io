@@ -21,7 +21,7 @@ repository               : "shwayanhu/shwayanhu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ShwayanHu.png"
+  avatar           : "HeadShotSquare.png"
   name             : "Shwayan Hu"
   pronouns         : "he/his/him" # example: "she/her"  
   bio              : "Master Student in Statistical Science, Duke University"
